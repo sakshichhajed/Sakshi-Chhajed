@@ -715,6 +715,15 @@ a {
   z-index: 1;
 }
 
+.project-image-link {
+  display: block;
+  height: 100%;
+}
+
+.project-name-link {
+  width: fit-content;
+}
+
 .work-copy {
   display: flex;
   flex-direction: column;
